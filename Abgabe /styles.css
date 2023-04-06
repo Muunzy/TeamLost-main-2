@@ -1,0 +1,60 @@
+/* general style */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #4c7af3;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+/* Main */
+main {
+    padding: 2em;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+h2 {
+    border-bottom: 2px solid #4c7af3;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+}
+
+p {
+    margin-bottom: 1em;
+}
+
+/* Listen */
+ul {
+    padding-left: 1.5em;
+    list-style-type: square;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Responsiv 
+@media screen and (max-width: 960px) {
+    main {
+        padding-.…em;
+    }
+}
+*/

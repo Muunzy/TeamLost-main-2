@@ -1,0 +1,49 @@
+
+
+.text{
+  color: rgb(168, 168, 168);
+  text-align:center;
+  margin-right: 0px;
+
+}
+
+.Überschrift {
+  text-align:center;
+  color: rgb(168, 168, 168)
+}
+
+.Rechteck{
+  border: 2px solid blue;
+}
+
+/*Body */
+
+body {
+  font-family: Arial, sans-serif;
+  color: white;
+  background-color: black;
+  margin: 20px;
+}
+
+/* Überschrift */
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Bilder */
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
+
+/* Hover */
+
+ul il:hover {
+  color: black;
+  background-color: white;
+  display: inline-block;
+}

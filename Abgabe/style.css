@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#wrapper {
+	width: 1401px;
+    background-color: white; 
+}
+
+#Medium {
+	width: 700px;
+	float:left;
+}
+
+#Interaktion {
+	margin-left: 750px;
+    padding-top: 1px;
+} 
+p, h1 {
+    color:black;
+}
+a {
+    color: gray;
+}
+#quelle {
+    font-size: 10px;
+}

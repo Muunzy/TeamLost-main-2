@@ -1,0 +1,32 @@
+.undertitle{
+    color: rgb(57, 173, 117);
+    text-align: left;
+}
+.bild1{
+    max-width: 50%;
+    height: auto;
+    display: block;
+}
+.bild2{
+    max-width: 60%;
+    height: auto;
+    display: block;
+}
+.Titel{
+    margin: auto;
+  width: 100%;
+  padding: 10px;
+  text-align: left;
+  background-color: #3b3b3b;
+  color: white;
+}
+.bild3{
+    max-width: 50%;
+    height: auto;
+    display: block;
+}
+.bild4{
+    max-width: 20%;
+    height: auto;
+    display: block;
+}
