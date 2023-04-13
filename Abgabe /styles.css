@@ -12,7 +12,7 @@ body {
     color: #333;
 }
 
-/* Header */
+
 header {
     background-color: #4c7af3;
     color: white;
@@ -20,7 +20,7 @@ header {
     padding: 1em;
 }
 
-/* Main */
+
 main {
     padding: 2em;
     max-width: 960px;
@@ -41,7 +41,7 @@ p {
     margin-bottom: 1em;
 }
 
-/* Listen */
+/* Liste */
 ul {
     padding-left: 1.5em;
     list-style-type: square;
